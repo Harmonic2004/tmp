@@ -7,8 +7,8 @@ Lý do cần chia ra 2 skills vì ngoài skill `es-lookup-pipeline` sử dụng 
 Trước tiên đi triển khai phần tra cứu:
 
 Dưới đây là flow của skill
-![[flow.png]]
+![](images/flow.png)
 
 Tiếp theo là cấu trúc dữ liệu xuyên suốt được sử dụng:
 
-![[tree.png]]
+![](images/tree.png)
