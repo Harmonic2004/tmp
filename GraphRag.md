@@ -131,7 +131,7 @@ Gia đình Cratchit (C3) còn được chia nhỏ ở cấp 1. Ví dụ C43 “B
 
 File **carol_graph.png** vẽ 30 nhân vật chính với 65 cạnh có thật giữa họ, mỗi màu là một cộng đồng. Nhóm Cratchit (xanh dương) và nhóm Old Joe (vàng) tách rời rõ ràng; Scrooge nằm ở giữa, nối với mọi nhóm.
 
-![](iamges/carol_graph.png)
+![](images/carol_graph.png)
 
 ### Bước 4: LLM viết báo cáo cho từng cộng đồng
 
